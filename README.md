@@ -1,5 +1,16 @@
+# DKeeper: Decentralized Task Tracker
 
-Developed a decentralized task tracker application, DKeeper, using React for the frontend, integrated with the Internet Computer Protocol (ICP). Leveraged the Motoko programming language to implement backend functionalities, ensuring secure and efficient task management. This project highlights my skills in building decentralized applications (dApps) and showcases my proficiency in modern web technologies and blockchain integration.
+## Introduction
+
+Welcome to DKeeper, a decentralized task tracker application designed to streamline your task management process with enhanced security and efficiency.
+
+### Features
+- **Frontend**: Built using React, providing a seamless and interactive user experience.
+- **Backend**: Implemented using the Motoko programming language on the Internet Computer Protocol (ICP), ensuring robust and secure task management.
+- **Decentralized**: Leverages blockchain technology to offer a decentralized solution for tracking and managing tasks.
+
+This project not only showcases the power of decentralized applications (dApps) but also demonstrates my expertise in modern web technologies and blockchain integration.
+
 
 
 
